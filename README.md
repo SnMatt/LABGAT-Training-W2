@@ -11,7 +11,8 @@
 I learned to use the Unity mobile configuration and some of the touch inputs
 
 ### Advertisement
-I tried implementing a dummy ads where if the player dies, he can continue by watching an ad. I used the Unity Ads and Unity cloud Gaming service
+I learned how to implement a rewarded ads where if the player dies, he can continue by watching an ad. I used the Unity Ads and Unity cloud Gaming service.
+The ads in the current version is still set to testing (dummy ad)
 
 ### LeanTween
 My first time trying the LeanTween package for animating UI
